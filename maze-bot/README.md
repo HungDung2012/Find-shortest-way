@@ -1,4 +1,4 @@
-# Maze Bot (Tkinter)
+# Maze Bot 
 
 Chạy thử:
 ```bash
